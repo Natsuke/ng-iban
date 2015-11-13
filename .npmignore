@@ -3,7 +3,7 @@ src/
 test/
 Gruntfile.js
 LICENSE
-README.doc
+README.adoc
 wercker.yml
 .travis.yml
 .editorconfig
