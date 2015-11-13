@@ -1,0 +1,9 @@
+dist/
+src/
+test/
+Gruntfile.js
+LICENSE
+README.doc
+wercker.yml
+.travis.yml
+.editorconfig
