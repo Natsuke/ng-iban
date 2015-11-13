@@ -2,7 +2,7 @@
   "name": "ng-iban",
   "version": "0.4.0",
   "description": "IBAN directive for AngularJS",
-  "main": "./dist/ng-iban.js",
+  "main": "./lib/ng-iban.js",
   "scripts": {
     "test": "grunt test"
   },
@@ -38,5 +38,8 @@
     "karma-phantomjs-launcher": "^0.1.4",
     "load-grunt-tasks": "^0.6.0",
     "time-grunt": "^0.4.0"
+  },
+  "dependencies": {
+    "iban": "0.0.6"
   }
 }
